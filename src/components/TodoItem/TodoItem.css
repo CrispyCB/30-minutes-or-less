@@ -1,0 +1,15 @@
+.TodoBox {
+    display: flex;
+    text-align: center;
+    margin-top: 2%;
+    border-bottom: 1px solid whitesmoke;
+}
+.InputCheckbox {
+    display: block;
+    margin-top: -2%;
+    margin-left: 42.5%;
+}
+.TaskName {
+    display: block;
+}
+

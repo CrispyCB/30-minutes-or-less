@@ -6,6 +6,7 @@ class TodoContainer extends Component {
         return (
             <div>
                 <TodoItem/>
+                <TodoItem/>
             </div>
         )
     }
